@@ -1,0 +1,5 @@
+:woodenlog: wooden log: 126
+:EPIClog: EPIC log: 96
+:SUPERlog: SUPER log: 13
+:MEGAlog: MEGA log: 23
+:HYPERlog: HYPER log: 5

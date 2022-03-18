@@ -1,0 +1,27 @@
+{
+    "hunt": {
+        "do": true,
+        "heal": false,
+        "frequency_hunt_per_heal": 4,
+        "buy_lifepotion": false,
+        "lifepotion_per_buy": 10,
+        "time_per_hunt": 61
+    },
+    "chop": {
+        "do": true,
+        "what": "axe"
+    },
+    "farm": {
+        "do": true,
+        "buy_seed": true,
+        "what": "potato"
+    },
+    "adventure": {
+        "do": true,
+        "heal_before": true,
+        "heal_after": true,
+        "try_frecuency": 60,
+        "trys_until_heal_before": 0
+    }
+
+}
