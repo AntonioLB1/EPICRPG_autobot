@@ -78,9 +78,9 @@ def autoBot(params:dict):  # pickup axe net
                 keyboard.send("enter")
             count_farm = 1
             sleep(1.2)
-            keyboard.write("rpg farm")
+            keyboard.write("rpg farm ")
             if not params["farm"]["buy_seed"]:
-                keyboard.write(" " + params["farm"]["what"])
+                keyboard.write(params["farm"]["what"])
             keyboard.send("enter")
             total["farm"] += 1
             info()

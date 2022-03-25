@@ -9,19 +9,18 @@
     },
     "chop": {
         "do": true,
-        "what": "axe"
+        "what": "tractor"
     },
     "farm": {
         "do": true,
-        "buy_seed": true,
-        "what": "potato"
+        "buy_seed": false,
+        "what": "carrot"
     },
     "adventure": {
         "do": true,
-        "heal_before": true,
-        "heal_after": true,
-        "try_frecuency": 60,
+        "heal_before": false,
+        "heal_after": false,
+        "try_frecuency": 30,
         "trys_until_heal_before": 0
     }
-
 }
