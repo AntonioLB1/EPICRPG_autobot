@@ -1,5 +1,23 @@
 # Automatize EPIC-RPG discord's bot 
 
+For Epic RPG autobot, download:
+- EPIC_RPG_autobot.exe
+- params_AutobotRPG.json
+
+For ANTIBAN Epic RPG autobot, download:
+- antibanEPIC_RPG_autobot.exe
+- params_AutobotRPG.json
+- https://github.com/UB-Mannheim/tesseract/wiki
+**IMPORTANT** PATH: "C:\Program Files\Tesseract-OCR"
+
+
+
+
+For Wood Log Calculator, download:
+- LOG_calculator.exe
+- items.txt
+
+
 ## Automatize farm
 Download:
 - EPIC_RPG_autobot.exe
